@@ -1,0 +1,15 @@
+Power Nedir?
+
+Artýk veriler büyüdü. Iþ zekasý programlarýný öðrenmek zorundayýz. Excelin yeri her zaman ayrý. Ancak excelde dashboard hazýrlamak hem büyük bir tecrübe hem de yetenek gerektirmektedir.
+
+Birçok kaynaktan beslenebilir.
+
+Milyonlarca data ile çalýþabilir
+
+Excelin esnekliðine accessin tablo iliþkilendirme yeteneklerine sahiptir
+
+Rakipleri olan tableau, qlick sence,ibm click gibi programlardan daha hýzlý çalýþan bir motoru vardýr
+
+Kullanýcý dostudur ve öðrenmesi çok kolaydýr
+
+Hazýrlanan raporlar internet ortamýnda kolaylýkla paylaþýlabilir.
